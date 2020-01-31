@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+<div class="jumbotron">
+	<h1 class="display-4">Haber sitesi uygulaması</h1>
+	<p class="lead">Makale yaz, oku ve dünyayı keşfet...</p>
+	<p class="lead">
+		<a class="btn btn-primary btn-lg" href="{% url 'article_list' %}"
+		role="button">Bütün Makaleleri Gör</a>
+	</p>
+</div>
+{% endblock content %}
