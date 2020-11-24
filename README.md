@@ -1,3 +1,3 @@
 # django_dersleri
 
-Tirendaz Akademi youtube kanalındaki django derslerinin proje dosyaları
+Hi, project files of django lessons on Tirendaz Academy youtube channel
