@@ -1,6 +1,6 @@
 # Hello 😄
 
-## Here you can find the project files of [django tutorial](https://www.youtube.com/watch?v=LiiSsTuR6Xk) on the youtube channel here. 
+## Here you can find the project files of [django tutorial](https://www.youtube.com/watch?v=LiiSsTuR6Xk) on Tirendaz Academy YoutTube channel. 
 
 
 ## Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
