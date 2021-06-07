@@ -4,6 +4,6 @@
 
 ## Here you can find the project files of [django tutorial](https://www.youtube.com/watch?v=LiiSsTuR6Xk) on Tirendaz Academy YotuTube channel. 
 
-## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=McSLYbxVsic&list=PLfMRLSpipmfvrYo-WZEVn4bUSVia_XD2P). 
+## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi). 
 
 ## Happy learning ... ✌️ 
