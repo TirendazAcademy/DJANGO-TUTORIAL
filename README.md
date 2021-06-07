@@ -1,6 +1,6 @@
 # Hello 😄 Welcome to Python Django Tutorial
 
-![](https://images.unsplash.com/photo-1502230831726-fe5549140034?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+![](https://images.unsplash.com/photo-1585362028211-dee1aba5fdd3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 ## Here you can find the project files of [django tutorial](https://www.youtube.com/watch?v=LiiSsTuR6Xk) on Tirendaz Academy YotuTube channel. 
 
